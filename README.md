@@ -2,7 +2,7 @@
 
 A high-fidelity, real-time stock market heatmap dashboard. This application provides a visual representation of global financial markets, allowing users to monitor performance by region, index, and sector.
 
-![Dashboard Preview](https://github.com/egunda/stock-index/raw/main/preview.png) *(Note: Replace with actual screenshot link if available)*
+![Dashboard Preview](preview.png)
 
 ## 🚀 Features
 
