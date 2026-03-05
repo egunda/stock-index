@@ -33,4 +33,4 @@ rm -f server.js package.json package-lock.json
 
 echo "✅ Deployment complete!"
 echo "🌐 You can now serve this folder using your preferred web server (Apache/Nginx/etc)."
-echo "💡 To test immediately, run: php -S 0.0.0.0:8007"
+echo "💡 To test immediately on default port, run: sudo php -S 0.0.0.0:80"

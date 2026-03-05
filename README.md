@@ -52,11 +52,11 @@ A high-fidelity, real-time stock market heatmap dashboard. This application prov
    - Ensure the `./api/` folder is readable/executable by the server.
 
 4. **Testing Locally**:
-   If you have PHP installed, you can start a local dev server immediately:
+   If you have PHP installed, you can start a local dev server immediately on the default port:
    ```bash
-   php -S localhost:8007
+   sudo php -S localhost:80
    ```
-   Then open `http://localhost:8007` in your browser.
+   Then open `http://localhost` in your browser.
 
 ## 📁 Project Structure
 
